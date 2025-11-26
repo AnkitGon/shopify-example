@@ -1,1 +1,2 @@
-import './bootstrap';
+console.clear();
+import './App.jsx'
