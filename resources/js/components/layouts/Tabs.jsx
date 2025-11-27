@@ -12,7 +12,10 @@ function Tabs() {
                         label: 'Home',
                         destination: '/',
                     },
-                   
+                    {
+                        label: 'Product',
+                        destination: '/product',
+                    }
                 ]}
             />
         </>
