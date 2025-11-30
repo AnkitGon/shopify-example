@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Support\Facades\View;
 use Osiset\ShopifyApp\Util;
+use Illuminate\Support\Facades\Auth;
 
 class AuthController extends Controller
 {
